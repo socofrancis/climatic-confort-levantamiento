@@ -27,7 +27,7 @@ hoja de cálculo en tu Google Drive. Además te llega un correo con el resumen.
 ## Paso 2 — Pegarla en la página
 
 Pásame esa URL. Yo la pongo en la página y publico.
-(Si lo haces tú: en `web/index.html` busca `__ENDPOINT__` y sustitúyelo por la URL.)
+(Si lo haces tú: en `index.html` busca `__ENDPOINT__` y sustitúyelo por la URL.)
 
 ## Paso 3 — Ver las respuestas
 
@@ -50,7 +50,7 @@ Pásame esa URL. Yo la pongo en la página y publico.
 
 | Archivo | Qué es |
 |---|---|
-| `web/index.html` | La página que se publica (GitHub Pages) |
+| `index.html` | La página que se publica (GitHub Pages) |
 | `cuestionario.html` | Versión Artifact, sin envío automático |
 | `apps-script/Codigo.gs` | El receptor que guarda en Google Sheets |
 | `logo.png`, `logo-web.png` | Logo extraído del PDF del cliente |
